@@ -6,7 +6,6 @@ The first thing you will need to do in order to create games using Pygame is to 
 
 ```
 pip install pygame
-
 ```
 Once that is done, just import Pygame and start off with your game development. Before moving on, take a look at the Pygame functions that have been used in this Snake Game along with their descriptions.
 
